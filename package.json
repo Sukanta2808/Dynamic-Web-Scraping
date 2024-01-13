@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chromedriver": "^120.0.1",
+    "fast-csv": "^4.3.6",
+    "puppeteer": "^21.6.1",
+    "selenium-webdriver": "^4.16.0",
+    "webdriver-manager": "^12.1.9"
+  }
+}
